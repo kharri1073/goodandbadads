@@ -10,6 +10,6 @@ Good Ads
 
 Bad Ads
 ----
-1. [Two video players in the same viewport.](https://kharri1073.github.io/goodandbadads/good/1/) This example can be good if the leader video is removed.
-2. [300px video in the right rail of the layout.](https://kharri1073.github.io/goodandbadads/good/2/)
-3. [Classic in-banner video player.](https://kharri1073.github.io/goodandbadads/good/3/) This example rotates a 300x250 display banner with a video player. This example may need several refreshes as both the video player and the 300x250 display ad are randomly placed.
+1. [Two video players in the same viewport.](https://kharri1073.github.io/goodandbadads/bad/1/) This example can be good if the leader video is removed.
+2. [300px video in the right rail of the layout.](https://kharri1073.github.io/goodandbadads/bad/2/)
+3. [Classic in-banner video player.](https://kharri1073.github.io/goodandbadads/bad/3/) This example rotates a 300x250 display banner with a video player. This example may need several refreshes as both the video player and the 300x250 display ad are randomly placed.

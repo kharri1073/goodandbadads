@@ -1,7 +1,7 @@
 Good and Bad Video Ads
 ====
 
-Examples of good and bad video ads in the eyes of google policy
+Examples of good and bad video ads in the eyes of policy
 
 Good Ads
 ----
